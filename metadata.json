@@ -1,0 +1,5 @@
+{
+  "name": "Padel Score Tracker",
+  "description": "A hands-free score tracker for Padel with voice announcements and large tap targets.",
+  "requestFramePermissions": ["screen-wake-lock"]
+}
